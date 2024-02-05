@@ -12,3 +12,6 @@ All programs and services come from the "Web Kernel" which is internally called 
 .. toctree::
 
    kernelapi
+   dwm
+   logon
+   secure
