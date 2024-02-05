@@ -8,3 +8,7 @@ All programs and services come from the "Web Kernel" which is internally called 
 .. note::
 
    This project is under active development.
+
+.. toctree::
+
+   kernelapi
